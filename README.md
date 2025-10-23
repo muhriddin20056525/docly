@@ -1,6 +1,6 @@
-# 📄 simple-word
+# 📄 Docly
 
-**simple-word** — bu foydalanuvchi Google yoki GitHub orqali tizimga kirib, o‘z hujjatlarini yaratishi, ko‘rishi, tahrirlashi va o‘chirish imkoniyatiga ega bo‘lgan web-ilova.
+**Docly** — bu foydalanuvchi Google yoki GitHub orqali tizimga kirib, o‘z hujjatlarini yaratishi, ko‘rishi, tahrirlashi va o‘chirish imkoniyatiga ega bo‘lgan web-ilova.
 
 ---
 
